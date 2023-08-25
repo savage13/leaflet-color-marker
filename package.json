@@ -1,0 +1,20 @@
+{
+  "name": "leaflet-color-marker",
+  "version": "1.0.0",
+  "description": "Leaflet color markers",
+  "type": "module",
+  "main": "color_icon.js",
+  "module": "color_icon.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leaflet",
+    "color",
+    "marker"
+  ],
+  "author": "savage13@gmail.com",
+  "license": "BSD-2-Clause"
+}
